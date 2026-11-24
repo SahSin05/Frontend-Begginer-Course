@@ -1,0 +1,16 @@
+{
+  "name": "frontend-beginner-course",
+  "version": "1.0.0",
+  "description": "A practical, exercise-first course for a college student preparing for a fresher frontend developer role.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
+}
